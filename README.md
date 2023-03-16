@@ -23,7 +23,7 @@ D.S.C.-curso-python-basico-experto/count.svg" alt ="Loading"> <br>
 >>> 003 Pyratilla y su historia<br>
 
 >> 03 Tema 1 - Python básico
->>> [001 El concepto de Variable]()<br>
+>>> [001 El concepto de Variable](https://github.com/developer-community-sw/D.S.C.-curso-python-basico-experto/blob/main/Recurse/Tema01.ipynb)<br>
 
 ## YOUTUBE: Curso de Flask - Codigofacilito
 [![Curso de Flask - Codigo Facilito](https://user-images.githubusercontent.com/36086876/149682172-1951c8ea-28c6-406f-8b34-44fcf27e3469.png)](https://youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk)
