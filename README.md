@@ -2,8 +2,7 @@
 D.C.S | Curso Online: Udemy | Cursos: Curso completo de Python 3 de la A a la Z - 2022 +50 horas! | Lenguaje: Python | Ide: VStudio Code
 
 ## NUMERO DE VISITANTES.
-<img align="left" src = "https://profile-counter.glitch.me/
-D.S.C.-curso-python-basico-experto/count.svg" alt ="Loading"> <br>
+<img align="left" src = "https://profile-counter.glitch.me/D.S.C.-curso-python-basico-experto/count.svg" alt ="Loading"> <br>
 
 ## SITIO WEB.
 [Curso Python Basico a Experto](https://developer-community-sw.github.io/D.S.C.-curso-python-basico-experto/)
@@ -31,6 +30,9 @@ D.S.C.-curso-python-basico-experto/count.svg" alt ="Loading"> <br>
 >>> [004 Operaciones con variables de tipo numérico](https://github.com/developer-community-sw/D.S.C.-curso-python-basico-experto/blob/main/Recurse/005%20Co%CC%81mo%20hacer%20comentarios.ipynb)<br>
 >>> [005 Cómo hacer comentarios](https://github.com/developer-community-sw/D.S.C.-curso-python-basico-experto/blob/main/Recurse/005%20Co%CC%81mo%20hacer%20comentarios.ipynb)<br>
 >>> [006 La función import](https://github.com/developer-community-sw/D.S.C.-curso-python-basico-experto/blob/main/Recurse/006%20La%20funcio%CC%81n%20import.ipynb)<br>
+
+>> 04 Tema 2 - Números en Python
+>>> [001 Tipos de números en Python]()<br>
 
 ## YOUTUBE: Curso de Flask - Codigofacilito
 [![Curso de Flask - Codigo Facilito](https://user-images.githubusercontent.com/36086876/149682172-1951c8ea-28c6-406f-8b34-44fcf27e3469.png)](https://youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk)
