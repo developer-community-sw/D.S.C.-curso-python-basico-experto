@@ -33,6 +33,12 @@ D.C.S | Curso Online: Udemy | Cursos: Curso completo de Python 3 de la A a la Z 
 
 >> 04 Tema 2 - Números en Python
 >>> [001 Tipos de números en Python](https://github.com/developer-community-sw/D.S.C.-curso-python-basico-experto/blob/main/resources/04%20Tema%202%20-%20Nu%CC%81meros%20en%20Python/001%20Tipos%20de%20nu%CC%81meros%20en%20Python.ipynb)<br>
+>>> [002 Operaciones aritméticas]()<br>
+>>> [003 Orden de las operaciones aritméticas]()<br>
+>>> [004 Números complejos_ definición y operaciones]()<br>
+>>> [005 Conjugado, módulo, argumento, unidad imaginaria y otras representaciones]()<br>
+>>> [006 El plano complejo]()<br>
+>>> [007 Números complejos en Python]()<br>
 
 ## YOUTUBE: Curso de Flask - Codigofacilito
 [![Curso de Flask - Codigo Facilito](https://user-images.githubusercontent.com/36086876/149682172-1951c8ea-28c6-406f-8b34-44fcf27e3469.png)](https://youtube.com/playlist?list=PLagErt3C7iltAydvN6SgCVKsOH4xQQKsk)
